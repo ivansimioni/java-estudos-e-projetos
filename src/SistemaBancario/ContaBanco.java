@@ -73,7 +73,7 @@ public class ContaBanco {
     }
 
     public double getSaldo() {
-        return saldo;
+        return this.saldo;
     }
 
     public void setSaldo(double s) {
